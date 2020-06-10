@@ -1,0 +1,57 @@
+﻿@model BookMyShow.Models.Movie
+
+@{
+    ViewBag.Title = "Details";
+}
+    <style type="text/css">
+        .spc {
+            margin-bottom:10px;
+        }
+    </style>
+
+<h4>Details</h4>
+
+<div>
+    <hr />
+    <dl class="dl-vertical">
+        <dt class="spc">
+            @Html.DisplayNameFor(model => model.MovieName)
+        </dt>
+
+        <dd class="spc">
+            @Html.DisplayFor(model => model.MovieName)
+        </dd>
+
+        <dt class="spc">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd class="spc" style="width:500px;">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt class="spc">
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+
+        <dd class="spc">
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+
+        <dt class="spc">
+            @Html.DisplayNameFor(model => model.Genre)
+        </dt>
+
+        <dd class="spc">
+            @Html.DisplayFor(model => model.Genre)
+        </dd>
+
+        <dd>
+            <img src="@Url.Content(Model.Icon)" width="400" height="400" />
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

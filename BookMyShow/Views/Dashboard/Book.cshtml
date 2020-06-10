@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BookMyShow.Models.Show>
+
+@{
+    ViewBag.Title = "Select Show";
+}
+<style type="text/css">
+    .column {
+        width: 10%;
+        float: left;
+        margin-top: 30px;
+        margin-right: 10px;
+        font-size: medium;
+        border: 1px solid #e7364d;
+        text-align: center;
+    }
+</style>
+<h4>Select Show Time</h4>
+@foreach (var item in Model)
+{
+    int c = 0;
+    if (c == 0)
+    {
+        <h4 style="color:#e7364d;">@item.Movie.MovieName</h4>
+        break;
+    }
+
+}
+@foreach (var item in Model)
+{
+<div>
+    <h4>@item.ShowDate.Value.ToShortDateString()</h4>
+    <a class="column" href="/Dashboard/SelectSeat/@item.ShowId">@item.ShowTime</a>
+    <br /><br /><br />
+</div>
+}
+

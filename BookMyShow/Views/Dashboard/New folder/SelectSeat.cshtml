@@ -1,0 +1,139 @@
+﻿@model IEnumerable<BookMyShow.Models.Ticket>
+
+@{
+    ViewBag.Title = "Select Seat";
+}
+
+<style type="text/css">
+    .column {
+        width: 10%;
+        float: left;
+        margin-top: 5px;
+    }
+
+    body {
+        margin: 0;
+    }
+
+    #screen img {
+        display: block;
+        position: fixed;
+        bottom: 5px;
+    }
+
+    #selectable .seat:hover {
+        cursor: pointer;
+        border: 3px solid orange;
+    }
+
+    #selectable .seat.selected {
+        border: 3px solid blue;
+    }
+
+    .bookedSeat {
+        border: 3px solid red;
+    }
+
+        .bookedSeat:hover {
+            cursor: none;
+        }
+</style>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("#selectable > img").click(function () {
+            $(this).toggleClass("selected");
+        });
+    })
+
+    $(function () {
+        var seat = new Array(500);
+        $("#ProceedBook").click(function () {
+            $.each($('.selected'), function (index, value) {
+                seat.push(value.id);
+            });
+            var url = "https://localhost:44376/Dashboard/FinalBook";
+            $.post(url, { Seat: seat }, function (data) {
+                if (data.result == '/Login/Index') { window.location = data.result; }
+                if (data.result == 'Redirect') { window.location = data.url };
+                console.log(data);
+            });
+            $('.seat').removeClass('selected');
+        })
+    })
+
+    $(document).ready(function () {
+        var bookedSeats = new Array(500);
+        var url = "https://localhost:44376/Dashboard/GetBookedSeat";
+        $.post(url, function (data) {
+            bookedSeats = data;
+            console.log(bookedSeats);
+            getSeats();
+        });
+        function getSeats() {
+            $.each($('.seat'), function (index, value) {
+                if (bookedSeats.includes(value.id)) {
+                    document.getElementById(value.id).className += "bookedSeat";
+                    $('.bookedSeat').prop('disabled', true);
+                    $('.bookedSeat').removeClass('seat');
+                }
+            });
+        }
+    });
+
+</script>
+<br />
+<div class="row" style="margin-bottom:10px;border:1px solid #e7364d;">
+    <div class="col-md-2 col-md-offset-1">
+        <img src="@Url.Content(@ViewBag.MovieIcon)" height="120" width="120" />
+    </div>
+    <div class="col-md-2">
+        <h4 style="font-family:Calibri;">@ViewBag.MovieName</h4><br />
+    </div>
+    <div class="col-md-2">
+        <h4 style="font-family:Calibri;">@ViewBag.ShowDate.ToString("dd/MM/yyyy")</h4>
+    </div>
+    <div class="col-md-2">
+        <h4 style="font-family:Calibri;">@ViewBag.ShowTime</h4>
+    </div>
+    <div class="col-md-2">
+        <h4 style="font-family:Calibri;">@ViewBag.Genre</h4>
+    </div>
+</div>
+
+@using (Html.BeginForm("FinalBook", "Dashboard", FormMethod.Post))
+{
+    <div class="row" style="border:1px solid #e7364d;margin-bottom:5px;">
+        <div class="col-md-3">
+            <img src="~/SeatImages/AvailableSeat.PNG" />
+        </div>
+        <div class="col-md-3">
+            <img src="~/SeatImages/CurrentSelection.png" />
+        </div>
+        <div class="col-md-3">
+            <img src="~/SeatImages/BookedSeat.PNG" />
+        </div>
+        <div class="col-md-3">
+            <input type="button" id="ProceedBook" name="Booking" value="Book Tickets!" class="pull-right btn btn-default" style="margin-top:2px;background-color:#e7364d;color:white;" />
+        </div>
+    </div>
+
+
+    foreach (var item in Model)
+    {
+    <h4 style="color:#e7364d;">@Html.DisplayFor(modelItem => item.TicketType) </h4>
+    <h5 style="color:#e7364d;">@Html.DisplayFor(modelItem => item.Price) </h5>
+        for (int i = 0; i < item.TotalSeats; i++)
+        {
+            string seatNumber = string.Concat(item.TicketType, ' ', i + 1);
+
+            <div id="selectable" class="column">
+                <img class="seat " id="@seatNumber" src="~/SeatImages/seat.png" height="30" width="30" title="@seatNumber" />
+            </div>
+        }
+    }
+}
+<div id="screen" style="width:100%; height:100%;">
+    <img src="~/SeatImages/screen.JPG" style="margin-left:260px;" />
+</div>

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<BookMyShow.Models.Ticket>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h4>Tickets</h4>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Movie.MovieName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Show.ShowTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TicketType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalSeats)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Movie.MovieName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Show.ShowTime)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.TicketType)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.TotalSeats)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Price)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.TicketId }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.TicketId })
+    </td>
+</tr>
+}
+
+</table>

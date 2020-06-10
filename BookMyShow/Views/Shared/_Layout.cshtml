@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - BookMyShow</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script type="text/javascript">
+        function fillcity() {
+            $("#CityName").html("");
+            stateid = ($("#StateId").val());
+            $.ajax({
+                url: "https://localhost:44376/City/GetCity",
+                type: "GET",
+                contentType: "application/json; charset=utf-8",
+                datatype: JSON,
+                data: { stateid: stateid },
+                success: function (result) {
+                    $(result).each(function () {
+                         $("#CityName").val(this.Price);
+
+                    });
+
+                },
+                error: function (data) { }
+            });
+
+        }
+
+        function getMovieShow() {            
+            $("#ShowId").html("");
+            movieid = ($("#MovieId").val());            
+            $.ajax({
+                url: "https://localhost:44376/Ticket/GetMovieShow",
+                type: "GET",
+                contentType: "application/json; charset=utf-8",
+                datatype: JSON,
+                data: { movieid: movieid },
+                success: function (result) {
+                    $(result).each(function () {
+                        $("#ShowId").append($("<option></option>").val(this.ShowId).html(this.ShowTime));
+                    });
+                },
+                error: function (data) { }
+            });
+        }
+
+        function getCity() {            
+            $("#CityId").html("");
+            stateid = ($("#StateId").val());            
+            $.ajax({
+                url: "https://localhost:44376/Customer/GetCity",
+                type: "GET",
+                contentType: "application/json; charset=utf-8",
+                datatype: JSON,
+                data: { stateid: stateid },
+                success: function (result) {                    
+                    $(result).each(function () {
+                        $("#CityId").append($("<option></option>").val(this.CityId).html(this.CityName));
+                    });
+                },
+                error: function (data) { }
+            });
+        }
+        </script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("BookMyShow", "Index", "Dashboard", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                @if (Session["IsAdmin"] == null)
+                { Session["IsAdmin"] = "No";
+                    Session["FirstName"] = "text";
+                }
+                
+                <ul class="nav navbar-nav">
+                    <li style="@(Session["IsAdmin"].ToString() == "Yes" ? "display:block" : "display:none")">@Html.ActionLink("State", "Index", "State")</li>
+                    <li style="@(Session["IsAdmin"].ToString() == "Yes" ? "display:block" : "display:none")">@Html.ActionLink("City", "Index", "City")</li>
+                    <li style="@(Session["IsAdmin"].ToString() == "Yes" ? "display:block" : "display:none")">@Html.ActionLink("Movie", "Index", "Movie")</li>
+                    <li style="@(Session["IsAdmin"].ToString() == "Yes" ? "display:block" : "display:none")">@Html.ActionLink("Show", "Index", "Show")</li>
+                    <li style="@(Session["IsAdmin"].ToString() == "Yes" ? "display:block" : "display:none")">@Html.ActionLink("Ticket", "Index", "Ticket")</li>
+                    <li style="@(Session["IsAdmin"].ToString() == "Yes" ? "display:block" : "display:none")">@Html.ActionLink("Customer", "Index", "Customer")</li>
+                    <li style="@(Session["IsAdmin"].ToString() == "Yes" ? "display:block" : "display:none")">@Html.ActionLink("Reports", "Index", "Reports")</li>
+                    <li style="@(Session["UserID"] == null ? "display:block" : "display:none");">@Html.ActionLink("Sign In", "Index", "Login")</li>
+                    <li style="@(Session["UserID"] != null ? "display:block" : "display:none");">@Html.ActionLink("Welcome back, " + Session["FirstName"].ToString(), "", "")</li>
+                    <li style="@(Session["UserID"] == null ? "display:block" : "display:none");">@Html.ActionLink("Welcome Guest", "", "")</li>
+                    <li style="@(Session["UserID"] != null ? "display:block" : "display:none");">@Html.ActionLink("Log Out", "LogOut", "Login")</li>
+
+                </ul>
+                
+            </div>
+        </div>
+        
+    </div>
+    <div class="container body-content">
+        
+        @RenderBody()
+        <hr />
+        @*<footer>
+            <p>&copy; @DateTime.Now.Year - BookMyShow</p>
+        </footer>*@
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

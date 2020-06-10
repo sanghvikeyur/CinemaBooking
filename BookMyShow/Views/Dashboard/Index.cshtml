@@ -1,0 +1,79 @@
+﻿@model IEnumerable<BookMyShow.Models.Movie>
+    <script src="~/Scripts/jQuery.min.js"></script>
+@{
+    ViewBag.Title = "Dashboard";
+}
+<style type="text/css">
+    .column {
+        width: 25%;
+        float: left;
+        height:250px;
+        margin-top: 35px;
+    }
+</style>
+
+@foreach (var item in Model)
+{
+
+    <div class="column">
+        <img src="@Url.Content(item.Icon)" width="200" height="200" /><br />
+        @Html.DisplayFor(modelItem => item.MovieName)<br />
+        @Html.ActionLink("Book Tickets", "Book", new { id = item.MoviedId }) |
+        @Html.ActionLink("Details", "Details", new { id = item.MoviedId }) <br />
+        <img src="~/Image/EmptyStar.png" height="15" width="15" alt="Star Rating" align="middle" id="1" class="rating" mid="@item.MoviedId" />
+        <img src="~/Image/EmptyStar.png" height="15" width="15" alt="Star Rating" align="middle" id="2" class="rating" mid="@item.MoviedId" />
+        <img src="~/Image/EmptyStar.png" height="15" width="15" alt="Star Rating" align="middle" id="3" class="rating" mid="@item.MoviedId" />
+        <img src="~/Image/EmptyStar.png" height="15" width="15" alt="Star Rating" align="middle" id="4" class="rating" mid="@item.MoviedId" />
+        <img src="~/Image/EmptyStar.png" height="15" width="15" alt="Star Rating" align="middle" id="5" class="rating" mid="@item.MoviedId" />
+        (@item.RateCount) @{if (item.RateCount > 0)
+            {
+                decimal? a = @item.RateTotal / @item.RateCount; <span class="avr"> @a</span>
+            } }<br />
+        <h5 style="margin: 0 0 -30px;" class="result"></h5>
+    </div>
+
+}
+<script type="text/javascript">
+    $(function () {
+        $('.column').each(function () {
+
+            var av = $(this).find("span.avr").text();
+
+            if (av != "" || av != null) {
+                // alert(av);
+                // fillRating(parseInt(av));
+                var img = $(this).find("img[id='" + parseInt(av) + "']");
+                img.attr("src", "/Image/FilledStar.png").prevAll("img.rating").attr("src", "/Image/FilledStar.png");
+            }
+        });
+
+        $("img.rating").mouseover(function () {
+            giveRating($(this), "FilledStar.png");
+            $(this).css("cursor", "pointer");
+        });
+
+        $("img.rating").mouseout(function () {
+            giveRating($(this), "EmptyStar.png");
+            refilRating($(this));
+        });
+
+        $("img.rating").click(function (e) {
+            $(this).css('color', 'red');
+            // alert(e.currentTarget + ' was clicked!');
+            var url = "/Movie/PostRating?rating=" + parseInt($(this).attr("id")) + "&mid=" + parseInt($(this).attr("mid"));
+            $.post(url, null, function (data) {
+                $(e.currentTarget).closest('div').find('h5.result').text(data).css('color', 'red') // $("#result").text(data);
+            });
+        });
+    });
+
+    function giveRating(img, image) {
+        img.attr("src", "/Image/" + image)
+            .prevAll("img.rating").attr("src", "/Image/" + image);
+    }
+    function refilRating(img1) {
+        var rt = $(img1).closest('div').find("span.avr").text();
+        var img = $(img1).closest('div').find("img[id='" + parseInt(rt) + "']");
+        img.attr("src", "/Image/FilledStar.png").prevAll("img.rating").attr("src", "/Image/FilledStar.png");
+    }
+</script>

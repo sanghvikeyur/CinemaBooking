@@ -1,0 +1,338 @@
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\BookMyShow.dll.config
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\BookMyShow.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\BookMyShow.pdb
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\csc.exe
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\csc.exe.config
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\csc.rsp
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\csi.exe
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\csi.exe.config
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\csi.rsp
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.AppContext.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Console.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.IO.Compression.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.IO.Pipes.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Security.Claims.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.ValueTuple.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\vbc.exe
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\vbc.exe.config
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\vbc.rsp
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\VBCSCompiler.exe
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Antlr3.Runtime.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\EntityFramework.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\EntityFramework.SqlServer.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Newtonsoft.Json.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.Helpers.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.Mvc.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.Optimization.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.Razor.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.WebPages.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.WebPages.Razor.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Unity.Abstractions.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Unity.Container.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Unity.Mvc5.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\WebGrease.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\EntityFramework.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\EntityFramework.SqlServer.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.Helpers.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.Mvc.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.Optimization.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.Razor.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.WebPages.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\System.Web.WebPages.Razor.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Newtonsoft.Json.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Unity.Abstractions.pdb
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Unity.Container.pdb
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Antlr3.Runtime.pdb
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\obj\Debug\BookMyShow.csproj.CopyComplete
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\obj\Debug\BookMyShow.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\obj\Debug\BookMyShow.pdb
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\obj\Debug\BookMyShow.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\BookMyShow.dll.config
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\BookMyShow.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\BookMyShow.pdb
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\csc.exe
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\csc.exe.config
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\csc.rsp
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\csi.exe
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\csi.exe.config
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\csi.rsp
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.AppContext.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Console.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.IO.Compression.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.IO.Pipes.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Security.Claims.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.ValueTuple.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\vbc.exe
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\vbc.exe.config
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\vbc.rsp
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\VBCSCompiler.exe
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Antlr3.Runtime.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\EntityFramework.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\EntityFramework.SqlServer.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Newtonsoft.Json.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.Helpers.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.Mvc.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.Optimization.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.Razor.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.WebPages.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.WebPages.Razor.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Unity.Abstractions.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Unity.Container.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Unity.Mvc5.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\WebGrease.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\EntityFramework.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\EntityFramework.SqlServer.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.Helpers.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.Mvc.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.Optimization.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.Razor.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.WebPages.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\System.Web.WebPages.Razor.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Newtonsoft.Json.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Unity.Abstractions.pdb
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Unity.Container.pdb
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Antlr3.Runtime.pdb
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\obj\Debug\BookMyShow.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\obj\Debug\BookMyShow.csproj.CopyComplete
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\obj\Debug\BookMyShow.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\obj\Debug\BookMyShow.pdb
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.SqlServer.Types.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ReportViewerForMvc.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\EnvDTE.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\stdole.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\Microsoft.MSXML.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\obj\Debug\RdlCompile.cache
+C:\Users\radix\source\repos\BookMyShow - Copy\BookMyShow\obj\Debug\RdlCompile.compiled
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.SqlServer.Types.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ReportViewerForMvc.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\EnvDTE.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\stdole.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\Microsoft.MSXML.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\obj\Debug\RdlCompile.cache
+C:\Users\radix\source\repos\BookMyShow\BookMyShow\obj\Debug\RdlCompile.compiled
